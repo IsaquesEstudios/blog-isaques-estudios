@@ -1,12 +1,13 @@
 {
-  "name": "next-wordpress-starter",
-  "homepage": "https://next-wordpress-starter.spacejelly.dev",
+  "name": "isaques-estudios-blog",
+  "homepage": "https://teste.isaquesestudios.com",
   "version": "0.1.0",
   "license": "MIT",
-  "author": "Colby Fayock <hello@colbyfayock.com>",
+  "author": "Matteus Isaque<matteus@isaquesestudios.com>",
   "scripts": {
     "build": "next build",
     "dev": "next dev",
+    "postbuild": "next-sitemap --config next.sitemap.config.js",
     "export": "next export",
     "format": "pnpm lint --fix",
     "lint": "eslint .",
