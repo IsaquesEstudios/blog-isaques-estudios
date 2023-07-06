@@ -7,9 +7,9 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
+    "postbuild": "next-sitemap --config next.sitemap.config.js",
     "export": "next export",
     "format": "pnpm lint --fix",
-    "format:no-path": "pnpm lint:no-path --fix",
     "lint": "eslint .",
     "lint:no-path": "eslint",
     "start": "next start -p ${PORT:=3000}",
@@ -28,7 +28,6 @@
     "he": "^1.2.0",
     "loader-utils": "^3.2.1",
     "next": "13.4.0",
-    "next-sitemap": "^4.1.8",
     "nextjs-progressbar": "^0.0.16",
     "parameterize": "^1.0.0",
     "path": "^0.12.7",
