@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://teste.isaquesestudios.com/</loc><lastmod>2023-07-06T20:43:24.421Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://teste.isaquesestudios.com/categories/</loc><lastmod>2023-07-06T20:43:24.421Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://teste.isaquesestudios.com/posts/</loc><lastmod>2023-07-06T20:43:24.421Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://teste.isaquesestudios.com/search/</loc><lastmod>2023-07-06T20:43:24.421Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://teste.isaquesestudios.com/posts/google-tag-manager-com-next-js-13-como-vincular-em-2023/</loc><lastmod>2023-07-06T20:43:24.421Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://teste.isaquesestudios.com/posts/excesso-de-plugins-no-wordpress-prejudica-meu-site/</loc><lastmod>2023-07-06T20:43:24.421Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://teste.isaquesestudios.com/posts/excluir-100-de-um-tema-do-wordpress-boas-praticas-do-wp/</loc><lastmod>2023-07-06T20:43:24.421Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://teste.isaquesestudios.com/posts/marketing-digital-quando-surgiu-e-como-impactou-os-negocios/</loc><lastmod>2023-07-06T20:43:24.421Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://teste.isaquesestudios.com/posts/instalando-o-tag-manager-no-wordpress-usando-o-site-kit-by-google/</loc><lastmod>2023-07-06T20:43:24.421Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://teste.isaquesestudios.com/blog/</loc><lastmod>2023-07-06T20:43:24.421Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://teste.isaquesestudios.com/contato/</loc><lastmod>2023-07-06T20:43:24.421Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://teste.isaquesestudios.com/artigosgoogle-ads/</loc><lastmod>2023-07-06T20:43:24.421Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://teste.isaquesestudios.com/criacao-de-anuncios/</loc><lastmod>2023-07-06T20:43:24.421Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://teste.isaquesestudios.com/</loc><lastmod>2023-07-16T14:33:45.489Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://teste.isaquesestudios.com/categories/</loc><lastmod>2023-07-16T14:33:45.489Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://teste.isaquesestudios.com/posts/</loc><lastmod>2023-07-16T14:33:45.489Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://teste.isaquesestudios.com/search/</loc><lastmod>2023-07-16T14:33:45.489Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://teste.isaquesestudios.com/blog/</loc><lastmod>2023-07-16T14:33:45.489Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://teste.isaquesestudios.com/contato/</loc><lastmod>2023-07-16T14:33:45.489Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://teste.isaquesestudios.com/artigosgoogle-ads/</loc><lastmod>2023-07-16T14:33:45.489Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://teste.isaquesestudios.com/criacao-de-anuncios/</loc><lastmod>2023-07-16T14:33:45.489Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://teste.isaquesestudios.com/posts/google-tag-manager-com-next-js-13-como-vincular-em-2023/</loc><lastmod>2023-07-16T14:33:45.489Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://teste.isaquesestudios.com/posts/excesso-de-plugins-no-wordpress-prejudica-meu-site/</loc><lastmod>2023-07-16T14:33:45.489Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://teste.isaquesestudios.com/posts/excluir-100-de-um-tema-do-wordpress-boas-praticas-do-wp/</loc><lastmod>2023-07-16T14:33:45.489Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://teste.isaquesestudios.com/posts/marketing-digital-quando-surgiu-e-como-impactou-os-negocios/</loc><lastmod>2023-07-16T14:33:45.489Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://teste.isaquesestudios.com/posts/instalando-o-tag-manager-no-wordpress-usando-o-site-kit-by-google/</loc><lastmod>2023-07-16T14:33:45.489Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
